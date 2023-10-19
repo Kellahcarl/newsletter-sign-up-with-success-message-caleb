@@ -201,6 +201,13 @@ form {
     transition: background ease 2s;
 }
 
+.attribution{
+    font-size: small;
+    padding: 20px;
+    font-weight: 100;
+    text-align: center;
+}
+
 @media(min-width:769px) {
     .container {
         display: flex;
